@@ -19,3 +19,7 @@ O kolech se dívám na [BikeMagazín](https://www.bikemagazin.cz/).
 ![Jednoduchý obrázek ovladače](images/hry.svg)
 
 Hry hledám na webu [Steam](https://store.steampowered.com/).
+
+## Shrnutí
+
+> Tohle jsou moje hlavní koníčky.
