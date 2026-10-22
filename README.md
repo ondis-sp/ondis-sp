@@ -17,3 +17,5 @@ O kolech se dívám na [BikeMagazín](https://www.bikemagazin.cz/).
 ## Hraní her
 
 ![Jednoduchý obrázek ovladače](images/hry.svg)
+
+Hry hledám na webu [Steam](https://store.steampowered.com/).
