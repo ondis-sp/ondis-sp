@@ -13,3 +13,7 @@ O kolech se dívám na [BikeMagazín](https://www.bikemagazin.cz/).
 - jezdit na kole
 - hrát hry
 - být s kamarády
+
+## Hraní her
+
+![Jednoduchý obrázek ovladače](images/hry.svg)
