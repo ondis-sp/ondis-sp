@@ -7,3 +7,9 @@ Ahoj, tohle je můj projekt do školy. Budu sem dávat věci, které mě baví.
 ![Moje nakreslené kolo](images/kolo.svg)
 
 O kolech se dívám na [BikeMagazín](https://www.bikemagazin.cz/).
+
+## Co mě baví
+
+- jezdit na kole
+- hrát hry
+- být s kamarády
